@@ -1,3 +1,7 @@
+<img src="./img/terraform.png" alt="Terraform" width="96" height="96
+">
+<img src="./img/plus.png" alt="Plus Sign" width="96" height="96">
+<img src="./img/s3.png" alt="S3" width="100" height="100">
 ## Project Overview
 This project involves setting up a static website hosted on AWS S3. By following the steps outlined below, you will create an S3 bucket, configure it for static website hosting, upload your website files, enable public access, optionally configure a custom domain, and finally, test the website to ensure it is working correctly.
 
